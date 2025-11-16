@@ -5,10 +5,10 @@ The classic **Roulette** game, built with **Java**.
 ## 🧾 Table of Contents
 
 - [About](#about)  
-- [Features](#features)  
-- [How to Run](#how-to-run)  
-- [Gameplay Screenshots](#gameplay)  
-
+- [Features](#features)   
+- [Screenshots](#screenshots)
+- [How to Run](#how-to-run)
+  
 ---
 
 ## About
@@ -31,8 +31,7 @@ This project simulates a roulette table in Java, where a user can place bets and
 ## 📸 Screenshots
 
 ### Welcome Page
-![Welcome Page](<img width="1916" height="1040" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/01aebf97-753e-424f-bfc5-b56bd817515c" />
-)
+![Welcome Page](<img width="1916" height="1040" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/0b9bdefe-2ae6-4757-88ac-e859881d8337" />)
 
 ### Home Page
 
