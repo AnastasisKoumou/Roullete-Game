@@ -7,10 +7,7 @@ The classic **Roulette** game, built with **Java**.
 - [About](#about)  
 - [Features](#features)  
 - [How to Run](#how-to-run)  
-- [Gameplay](#gameplay)  
-- [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Gameplay Screenshots](#gameplay)  
 
 ---
 
@@ -23,11 +20,23 @@ This project simulates a roulette table in Java, where a user can place bets and
 ## Features
 
 - Bet on a **number** (0–36)  
-- Bet on **color** (Red / Black)  
-- Bet on **odd / even**  
 - Spin the roulette wheel and resolve bets  
 - Track and update **player balance**  
 - Console-based UI (text input/output)  
+
+---
+
+---
+
+## 📸 Screenshots
+
+### Welcome Page
+![Welcome Page](<img width="1916" height="1040" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/01aebf97-753e-424f-bfc5-b56bd817515c" />
+)
+
+### Home Page
+
+### Game Page
 
 ---
 
