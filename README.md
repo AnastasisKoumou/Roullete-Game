@@ -29,6 +29,7 @@ This project simulates a roulette table in Java, where a user can place bets and
 ## 📸 Screenshots
 
 ### Welcome Page
+![Welcome Page](https://github.com/user-attachments/assets/1b6a5422-9396-4214-b013-d85901ba5b7c)
 
 ### Home Page
 
